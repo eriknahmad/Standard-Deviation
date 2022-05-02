@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 # Project Name: Standard Deviation
 # File Name: StandardDeviation.py
 # Author: Erik Nahmad
